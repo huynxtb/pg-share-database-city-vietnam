@@ -1,0 +1,20 @@
+// Province - Tỉnh, Thành Phố
+
+Method: GET
+
+URL: https://api.npoint.io/ac646cb54b295b9555be
+
+
+// District - Quận, Huyện
+
+Method: GET
+
+URL: https://api.npoint.io/34608ea16bebc5cffd42
+
+
+// Ward- Xã Phường
+
+Method: GET
+
+URL: https://api.npoint.io/dd278dc276e65c68cdf5
+
